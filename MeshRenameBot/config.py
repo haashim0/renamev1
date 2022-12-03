@@ -12,11 +12,11 @@ except ImportError:
         REMAINING_STR = [str, "▱"]
         MAX_QUEUE_SIZE = [int, 10]
         SLEEP_SECS = [int, 0]
-        IS_MONGO = [bool, true]
+        IS_MONGO = [bool, false]
 
         # Access Restriction
         IS_PRIVATE = [bool, true]
-        AUTH_USERS = [list,[123456789]]
+        AUTH_USERS = [list,[1354643852]]
         OWNER_ID = [int, 5291606032]
 
         # Public username url or invite link of private chat
