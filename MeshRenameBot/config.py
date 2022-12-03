@@ -15,7 +15,7 @@ except ImportError:
         IS_MONGO = [bool, False]
 
         # Access Restriction
-        IS_PRIVATE = [bool, true]
+        IS_PRIVATE = [bool, True]
         AUTH_USERS = [list,[1354643852]]
         OWNER_ID = [int, 5291606032]
 
